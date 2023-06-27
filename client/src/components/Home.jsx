@@ -3,7 +3,8 @@ import React from "react";
 const Home = () => {
   return (
     <>
-      <h1>This is Home</h1>
+      <h1>Andy Kleindienst</h1>
+      <h2>Performer | Educator | Arranger</h2>
     </>
   );
 };
